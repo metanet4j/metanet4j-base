@@ -11,7 +11,9 @@ import org.junit.Test;
 public class AipTest {
 
 
-
+    /**
+     * verifySign
+     */
     @Test
     public void verifyStrMsg() {
 
